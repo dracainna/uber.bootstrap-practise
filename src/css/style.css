@@ -147,3 +147,96 @@ h1 {
   color: #ffffff;
   text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.21);
 }
+
+.reasons {
+  min-height: 849px;
+  padding: 18px 0px 64px 0px;
+}
+
+.reasons-wrapper {
+  display: flex;
+  margin-top: -20px;
+  margin-left: 107px;
+}
+
+.reasons-benefits {
+  padding: 4px 12px;
+  margin: 0 auto;
+  width: 113px;
+  height: 24px;
+  font-weight: 400;
+  font-size: 11px;
+  text-transform: uppercase;
+  background-color: #000000;
+  color: white;
+}
+
+.reasons-header {
+  margin-top: 33px;
+  margin-bottom: 16px;
+  text-align: center;
+  font-weight: 700;
+  font-size: 38px;
+  text-transform: uppercase;
+  color: #222222;
+}
+
+.reasons-frame {
+  display: flex;
+  width: 512px;
+  align-items: center;
+  margin-top: 25px;
+}
+
+.reasons-frame-2 {
+  display: flex;
+  width: 512px;
+  align-items: center;
+  margin-top: 32px;
+  margin-left: -11px;
+}
+
+.reasons-frame-3 {
+  display: flex;
+  width: 512px;
+  align-items: center;
+  margin-top: 42px;
+  margin-left: -11px;
+}
+
+.reasons-frame-4 {
+  display: flex;
+  width: 512px;
+  align-items: center;
+  margin-top: 20px;
+  margin-left: -11px;
+}
+
+.reasons-border {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  min-width: 116px;
+  height: 116px;
+  background: #1eacc7;
+  border-radius: 100%;
+  text-align: center;
+}
+
+.reasons-icon {
+  max-width: 100%;
+}
+
+.reasons-descr {
+  margin-left: 25px;
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 21px;
+}
+
+.reasons-descr span {
+  color: #1eacc7;
+  font-weight: 400;
+  font-size: 17px;
+}
